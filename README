@@ -1,3 +1,5 @@
-This is librsvg - A high performance SVG rendering library associated with the Gnome Project.
+This is a riskier version of librsvg.
 
-Please report bugs at http://bugzilla.gnome.org/enter_bug.cgi?product=librsvg
+It is riskier in that it allows loading data from http and https sites.
+
+This carries risks, but will be worth it in some cases.
